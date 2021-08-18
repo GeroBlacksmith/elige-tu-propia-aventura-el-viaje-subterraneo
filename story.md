@@ -8,3 +8,8 @@ Cierras los ojos. Entonces, en lugar de sentir calor, sientes frio; en vez de se
 No recibes respuesta. Seguro que Larsen y Sneed ya te dieron por perdido.
 
 Recorres la saliente con la vista. Se curva en dirección a la superficie, pero también se hacen más angosta. Tratas de calcular cuánto te podrías acercar a la superficie sin perder pie. Tal vez sicavas un par de agarraderas en el hielo con tu cortaplumas, logres llegar hasta arriba, siempre y cuando no resbales.
+
+
+SI haces el Intento pasa a E1
+
+Si decides esperar pasa a E2
