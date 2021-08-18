@@ -1,8 +1,9 @@
-Ahora estás parado al borde de la grieta, sumido en tus pensamientos. ¿Cómo es posible que esa hendedura no tenga fondo? ¿Realmene conducirá a un reino subterráneo? ¿Qué habrá sido de la Dra. Vivaldi?
+Sientes un intenso dolor en todo el cuerpo cuando te estrellas contra la saliente. Estás temblando y lleno de moretones, pero vivo. Un banco de nieve amortiguó tu caída.
 
-Pero, de pronto, tus pensamientos se interrumpen bruscamente. Pese a qie no resbalaste, ¡estás cayendo dentro de la grieta? Te aproximas con rapidez a una saliente. Podrías intentar aterrizar en ella, pero tu descenso es tan vertiginoso que seguramente quedarías malherido. Y, de todos modos, es posible que sólo representara una solución aparente, ya que después estarías condenado a sufrir una merte lenta y muy dolorosa.
-Todos esos pensamientos desfilan por tu mente con la velocidad de un rayo.
+-¡SOCORRO!- gritas.
+-¡Aguanta un poco!-te grita Larsen-. No será fácil, pero estamos sujetando las sogas. Te izaremos. Sientes una oleada de alegría, hasta que recuerdas algo que te llena de pánico. Tuviste mucho cuidado de no caer en la hendedura. Y ahora estás seguro de que no resbalaste; fuiste atraído por una fuerza desconocida al interior de la Grieta Insondable.
+¿No deberías prevenir a tus amigos acerca de la existencia de esa extraña fuerza? Sólo que, si lo haces, tal vez ellos tengan miedo de acercarse lo suficiente como para rescatarte.
 
-Si tratas de aterrizar en la saliente, pasa a la rama C1
+Si previenes a Larsen y a Sneed pasa a D2
 
-En caso contrario, pasa a C2
+Si te limitas a gritar: "¡Apúrense, por favor!" pasa a D3
