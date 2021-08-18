@@ -1,9 +1,18 @@
-Sientes un intenso dolor en todo el cuerpo cuando te estrellas contra la saliente. Estás temblando y lleno de moretones, pero vivo. Un banco de nieve amortiguó tu caída.
+-¡Apártense del borde!- les gritas a voz en cuello-. ¡Yo no resbalé, fui absorbido por la grieta!
 
--¡SOCORRO!- gritas.
--¡Aguanta un poco!-te grita Larsen-. No será fácil, pero estamos sujetando las sogas. Te izaremos. Sientes una oleada de alegría, hasta que recuerdas algo que te llena de pánico. Tuviste mucho cuidado de no caer en la hendedura. Y ahora estás seguro de que no resbalaste; fuiste atraído por una fuerza desconocida al interior de la Grieta Insondable.
-¿No deberías prevenir a tus amigos acerca de la existencia de esa extraña fuerza? Sólo que, si lo haces, tal vez ellos tengan miedo de acercarse lo suficiente como para rescatarte.
+Durante unos instantes no oyes nada; luego Sneed grita:
 
-Si previenes a Larsen y a Sneed pasa a D2
+--Gracias por prevenirnos. Tal vez exista allá abajo una fuerza que desconocemos. Pero no te preocupes; estamos fabricando algo con las sogas para poder izarte sin acercarnos demasiado al borde.
 
-Si te limitas a gritar: "¡Apúrense, por favor!" pasa a D3
+Algunos minutos después ves una vuerda de escalar de nylon que bailotea frente a tus ojos. Tú tiras de ella hasta tener una cantidad suficiente para atártela alrededor de la cintura y debajo de las axilas. Te afirmas bien y gritas a los de arriba:
+
+--Estoy listo. ¡Tiren!
+
+El corazón te da un vuelco cuando te sientes arrancado ciolentamente de la saliente. Te bamboleas un momento y luego, muy lentamente, centímetros a centímetro, tus amigos te izan hasta más allá del borde de la grieta. Gateas por el hielo y te confudes en un enorme abrazo con ellos.
+
+--¡Gracias a Dios que conseguimos sacarte!- exclama Larsen-. La Grieta Insondable es asesino. Creo que lo mejor que podemos hacer es irmos de una buena vez.
+
+--Estoy de acuerdo contigo. Yo he tenido más que suficiente- dice Sneed.
+
+Después de lo que has pasado, ni se te ocurre disentir de ellos. Los tres recogen sus petates e inician la larga caminata de regreso a traves del glaciar. Estás encantado de estar vivo, pero sabes que siempre lamentarás no haber podido llegar al Reino Subterráneo.
+# FIN
