@@ -1,0 +1,2 @@
+# LA TEORIA DEL PROFESOR BRUCKNER
+El descubrimiento de la Gieta Insondable, realizado por la Dra. Nera Vivaldi en Groenlandia, confirma mi teoría de que la Tierra no es maciza -como solía creerse- sino hueca. Es probable que la Grieta Insondable sea la única ruta que comunica la superficie de la Tierra con un vasto "Reino Subterráneo". La única otra posible vía de acceso a dicho reino sería un río subterráneo que fluyera en direcciones opuestas de acuerdo con las mareas, pero eso parece bastante improbable.
