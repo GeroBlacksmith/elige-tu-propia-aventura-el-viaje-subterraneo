@@ -1,8 +1,4 @@
-Ahora estás parado al borde de la grieta, sumido en tus pensamientos. ¿Cómo es posible que esa hendedura no tenga fondo? ¿Realmene conducirá a un reino subterráneo? ¿Qué habrá sido de la Dra. Vivaldi?
+A medida que tu caída se hace más vertiginosa, comienzas a perder el conocimiento.
+De pronto descubres que flotas en el aire. Bajo una luz suave y rojiza adviertes que estás dentro de una caverna, ascendiendo hacia el techo... ¿o será el piso?Inmediatamente comprendes lo que ha sucedido: has caído hasta un punto en que la gravedad que existe por encima de ti es casi equivalente a la que existe hacia abajo.
 
-Pero, de pronto, tus pensamientos se interrumpen bruscamente. Pese a qie no resbalaste, ¡estás cayendo dentro de la grieta? Te aproximas con rapidez a una saliente. Podrías intentar aterrizar en ella, pero tu descenso es tan vertiginoso que seguramente quedarías malherido. Y, de todos modos, es posible que sólo representara una solución aparente, ya que después estarías condenado a sufrir una merte lenta y muy dolorosa.
-Todos esos pensamientos desfilan por tu mente con la velocidad de un rayo.
-
-Si tratas de aterrizar en la saliente, pasa a la rama C1
-
-En caso contrario, pasa a C2
+Rozas una superficie firme... una pared que parece de arcilla. Te aferras a ella por un momento. Luego comienzas a flotar de nuevo, y a descender muy lentamente. Empiezas a perder el miedo cuando te percatas de que allí la gravedad es tan tenue que puedes sequir cayendo kilómetros y kilómetros sin lastimarte. Al cabo de un rato te distiendes y comienzas a disfutar del hecho de ser arrastrado hacia abajo a través de un mundo fantástico en penumbras. ¡Si tan sólo no hiciera tanto calor! Cierras los ojos e imaginas que estás en tu casa, a salvo, metido en tu cama.
