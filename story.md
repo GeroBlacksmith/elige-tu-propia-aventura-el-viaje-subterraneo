@@ -9,3 +9,7 @@ Entumecido y bastante tembloroso, te las ingenias para ponerte de pie y escrutar
 Allí no hay protección contra el viento implacable y tampoco ves rastros de Larsen ni de Sneed. Te cuesta respirar. Muy pronto comienzas a sentir los dolores sordos, el embotamiento, la rigidez y las náuseas: los temidos síntomas de la hipotermia, sobre los que has leído. Te estás congelado y, si sigues así, morirás. Tal vez en cualquier momento llegue un helicóptero de reconocimiento. Quizás dentro de pocas horas, o quizá nunca.
 
 Estás muy cansado. Nesecitas desesperadamente descansar.
+
+Si te acurrucas dentro de tu campera impermeable e intentas conservar tus fuerzas, pasa a F1
+
+Si te obligas a seguir caminando pasa a F2
