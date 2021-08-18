@@ -24,3 +24,5 @@ Sneed sacude la cabeza.
 -Ninguna.
 
 Durante un minuto, todos permanecen en silencio. Al igual que tú, sin duda, los otros deben de sentirse excitados por haber alcanzado su objetivo, y también un poco triste. Hace apenas un año, tu antigua amiga, la Dra. Nera Vivaldi, envió un mensaje por radio desde ese mismo lugar, diciendo que había llegado a la Grieta Insondable. Instantes después, su emisora de radio quedó muda. Y nadie volvió a verla.
+
+Ir a B
